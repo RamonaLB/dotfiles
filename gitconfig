@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ramonahotz@bluewin.ch
+	name = Ramona Hotz
